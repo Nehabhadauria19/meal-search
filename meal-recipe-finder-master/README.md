@@ -45,4 +45,4 @@ npm run build
 ## Author
 
 - Name - Neha Bhadauria
-- GitHub - [github.com/abhinavg916](https://github.com/abhinavg916)
+- GitHub - https://github.com/Nehabhadauria19
