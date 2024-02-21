@@ -44,5 +44,5 @@ npm run build
 
 ## Author
 
-- Name - Abhinav
+- Name - Neha Bhadauria
 - GitHub - [github.com/abhinavg916](https://github.com/abhinavg916)
